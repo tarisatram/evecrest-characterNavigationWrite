@@ -8,6 +8,7 @@ Install dependencies
 `bundle install`
 
 Set environment variables
+
 `export CREST_ID=<your applications client id>`
 
 `export CREST_KEY=<your applications secret>`
