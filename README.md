@@ -8,7 +8,7 @@ Install dependencies
 `bundle install`
 
 Run the application
-rackup -p 3000
+`rackup -p 3000`
 
 Go to http://localhost:3000/login
 
