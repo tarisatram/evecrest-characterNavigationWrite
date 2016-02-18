@@ -7,6 +7,11 @@ Register a new CREST application at http://developers.eveonline.com
 Install dependencies
 `bundle install`
 
+Set environment variables
+`export CREST_ID=<your applications client id>`
+`CREST_KEY=<your applications secret>`
+`CREST_CALLBACK_URL=<the callback URL for your application>`
+
 Run the application
 `rackup -p 3000`
 
