@@ -1,7 +1,5 @@
 require 'sinatra'
-require 'haml'
 require 'oauth2'
-require 'httparty'
 
 ## Environment variables need to be set before running.
 # CREST_ID: CREST Client ID
